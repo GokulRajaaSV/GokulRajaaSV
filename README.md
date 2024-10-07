@@ -25,7 +25,7 @@ Technical Skills:
 
 Leadership & Project Management:
 
-🏅 Event Coordinator – Led a national-level technical symposium and various cultural events, enhancing my organizational and collaborative skills.
+🏅 Event Coordinator – Coordinated a national-level technical symposium and various cultural events, enhancing my organizational and collaborative skills.
 
 🎯 Problem-Solver – Equipped with strong communication and critical thinking abilities.
 
