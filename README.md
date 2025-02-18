@@ -1,67 +1,69 @@
-Hi there, I'm Gokul Rajaa S.V! 👋
+👋 Hi there! I'm Gokul Rajaa S.V.
 
-I'm a passionate Data Analyst and Software enthusiast with a keen interest in AI, data visualization, and software development. I love transforming raw data into actionable insights and solving problems through data-driven solutions.
+a passionate Data Analysis and Software Enthusiast with expertise in Power BI, Python, SQL, and AI-driven analytics. I love transforming raw data into actionable insights and solving problems through data-driven solutions.
 
+🚀 About Me
 
----
+📊 Data Analytics & Visualization expert with hands-on experience in Power BI dashboards and business intelligence reporting.
 
-🌟 Key Skills:
+🤖 Exploring AI and Machine Learning to enhance decision-making and automation.
 
-Data Analytics & Visualization:
-
-🏏 IPL Data Analysis (Power BI) – Analyzed IPL data (2008-2023) with advanced visualizations and interactive dashboards.
-
-🍽 Zomato Dashboard (Power BI) – Analyzed purchasing behavior across cities, utilizing data transformation and modeling techniques.
+💻 Passionate about software development and working on cutting-edge technology projects.
 
 
-Technical Skills:
+🔑 Key Skills
 
-🐍 Python – For data cleaning, automation, and analytical projects.
+🐍 Python – Data cleaning, automation, and analytics.
 
-💾 SQL – Querying and managing databases for data-driven applications.
+🗄️ SQL – Querying and managing databases for data-driven applications.
 
-📊 Power BI – Expertise in building dynamic dashboards for business intelligence and reporting.
+📈 Power BI – Building dynamic dashboards and interactive visualizations.
 
-
-Leadership & Project Management:
-
-🏅 Event Coordinator – Coordinated a national-level technical symposium and various cultural events, enhancing my organizational and collaborative skills.
-
-🎯 Problem-Solver – Equipped with strong communication and critical thinking abilities.
+🤝 Project Management – Event coordination and leadership.
 
 
+📊 Recent Projects
+
+1️⃣ IPL Data Analysis (Power BI)
+
+Analyzed IPL data (2008-2023) with interactive visualizations.
+
+Explored team performance, player statistics, and match trends.
 
 
----
+2️⃣ Zomato Dashboard (Power BI)
 
-🔭 Current Focus:
+Studied purchasing behavior across cities using data transformation & modeling.
 
-📈 Data Analytics: Continuously developing skills in Power BI, Python, and SQL for more impactful data storytelling.
-
-🤖 Artificial Intelligence: Exploring how AI can drive collaboration and improve decision-making processes.
-
-💻 Software Development: Expanding my knowledge of software tools and techniques to stay on the cutting edge of technology.
+Created a dashboard to visualize customer preferences and market trends.
 
 
+3️⃣ Investment Analysis (Power BI & Python)
 
----
+Conducted an in-depth financial analysis of various investment options.
 
-💬 Ask me about:
+Used Power BI dashboards to compare stock performance, mutual funds, and risk factors.
 
-Data analytics, Power BI, Python, SQL, and project management.
-
-
-
----
-
-📫 Get in Touch:
-
-Email: gokulrajaasv@gmail.com
-
-LinkedIn: linkedin.com/in/gokulrajaasv
-
-GitHub: github.com/GokulRajaaSV
+Implemented Python for data extraction, trend analysis, and predictive modeling.
 
 
+4️⃣ Tata Group Project (Power BI & SQL)
 
----
+Analyzed Tata Group’s business performance across industries.
+
+Created interactive dashboards showcasing revenue trends, market share, and company growth.
+
+Used SQL queries to extract insights from financial datasets and enhance decision-making.
+
+
+📌 Current Focus
+
+🔹 Enhancing skills in Data Analytics, AI, and Software Development.
+🔹 Exploring Machine Learning models for better predictive analytics.
+🔹 Expanding knowledge in Cloud Technologies for data-driven applications.
+
+📫 Let's Connect!
+
+📧 Email: gokulrajaasv@gmail.com
+🔗 LinkedIn: linkedin.com/in/gokulrajaasv
+💻 GitHub: github.com/GokulRajaaSV
